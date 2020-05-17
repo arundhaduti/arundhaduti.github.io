@@ -9,7 +9,7 @@
     {%- seo -%}
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     {%- feed_meta -%}
-    {%- if jekyll.environment == 'development' and site.google_analytics -%}
+    {%- if site.google_analytics -%}
       {%- include google_analytics.html -%}
     {%- endif -%}
 </head>
