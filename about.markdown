@@ -9,7 +9,7 @@ Bangalorean, who loves to travel and explore new places. I am constantly learnin
 **Currently working for**
 - Associated Press [https://ap.org](https://ap.org) *remote*
 - Qualitest [https://qualitestgroup.com/](https://qualitestgroup.com/)
-- Working on multiple new projects. Watch this space for more :D
+- Working on multiple new projects. Watch this space for more 😃
 
 **Skillset**
 - Write, develop and maintain test automation frameworks, mostly in `java`, `.net`
