@@ -36,7 +36,12 @@ linkedin_username: arundhaduti
 # Build settings
 theme: minima
 plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-feed
+  
+whitelist:
+  - jekyll-sitemap
   
 google_analytics: UA-166916983-1
 
