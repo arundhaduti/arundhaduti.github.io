@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "RTX 2070 unboxing and first impressions"
+date:   2020-06-03 10:58:23 +0530
+categories: 
+---
+
+Did this crazy thing when one of my friends who's been gaming for years on 1080Ti forced me to buy RTX 2070 just to play and experience this classic game GTA5. And I'm a guy who has never in my lifetime done serious gaming with a dedicated highend graphics card. So here's my experience.
+
+The day he forced me to buy I thought I should try it since he was insisting me to buy for the past 2 years(also maybe because it was my dream to build a high performance rig). So I went ahead and hit rtx2070 on amazon, found the one which I was looking for: Zotac RTX 2070 mini.&nbsp;&nbsp;
+
+![RTX2070 box](/assets/images/Rtx2070box.jpeg)&nbsp;
+
+![RTX2070 box](/assets/images/OuterboxRemoved.jpeg)&nbsp;
+
+It is one small form factor graphics card which packs a huge graphics processing power. Now, I'd been gaming on RadeonPro WX 2100 workstation graphics for a year and on AMD APU A10 graphics before that. The only game which I like which also coincidentally runs on Radeonpro is CSGO. Yes, I was getting hardly 60fps and it wasn't good to play.&nbsp;
+
+My first impressions of the unboxing of it were literally 🤯
+I mean, come on forget about the performance it just looks like a beast just lying on your desk.&nbsp;
+
+![RTX2070 box](/assets/images/gCardUnboxed.jpeg)&nbsp;
+
+![RTX2070 box](/assets/images/gCardBackplate.jpeg)&nbsp;
+
+![RTX2070 box](/assets/images/gCardSide.jpeg)&nbsp;
+
+Opened up the cabinet glass and then plugged it in. This was the first time that I'd plugged a graphics card. Powered on the system and again 🤯 The led lights all over those made it look just so futuristic and powerful. Immediately installed all the necessary drivers and opened up my all time favourite CSGO. Boom again 🤯 So butter smooth. Didn't check fps but im pretty sure it was well above 300. It was a whole different experience to play with such high fps. I never thought it would make such a huge difference. I was getting more frags than I used to with the RadeonPro. The next was GTA5, and again 🤯 so smooth and the reflections on the car and the texture so realistic considering the game was released in 2014.&nbsp;
+
+![RTX2070 box](/assets/images/gCardPlugged.jpeg)&nbsp;
+
+If it wasn't now, I'm pretty sure I couldn't buy it for at least the next two years since most of the electronics are all going out of stock(Covid-19). Money well spent at the right time on the right product.
