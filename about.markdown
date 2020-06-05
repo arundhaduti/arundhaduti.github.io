@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Bangalorean, who loves to travel and explore new places. I am constantly learning, updating and getting hands on with the latests tools and tech. I am also into playing guitar and music composition.
+Indian, who loves to travel and explore new places. I am constantly learning, updating and getting hands on with the latests tools and tech. I am also into playing guitar and music composition.
 
 **Currently working for**
 - Associated Press [https://ap.org](https://ap.org) *remote*

@@ -53,7 +53,8 @@ google_analytics: UA-166916983-1
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+    - _posts/archivedPosts/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
