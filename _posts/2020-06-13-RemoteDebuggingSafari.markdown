@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remote debugging iPhone/iPad Safari on Windows"
+title:  "Access dev tools for debugging iPhone/iPad Safari on Windows"
 date:   2020-06-13 18:08:23 +0530
 categories:
 ---
