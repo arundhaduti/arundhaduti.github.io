@@ -32,7 +32,7 @@ Below are the steps that I followed:
 6. Run the adapter using below command 
 
 	`remotedebug_ios_webkit_adapter -— port=9000`
-7. Now tht the adapter is listening, open chrome and go to this link [`chrome://inspect/#devices`][chromeInspect] and click on 'Configure...' next to Discover network targets and add `localhost:9000`
+7. Now tht the adapter is listening, open chrome and go to this link `chrome://inspect/#devices` and click on 'Configure...' next to Discover network targets and add `localhost:9000`
 8. Open the web page you want to debug on safari, you should see it on chrome inspector page under Remote Target - Target (RemoteDebug iOS Webkit Adapter)
 9. Click on inspect and you can access the console and network tabs to see if any errors to debug.&nbsp;
 
@@ -50,4 +50,3 @@ Below is reference url if need more info
 [node]: https://nodejs.org/en/download/
 [scoop]: https://scoop.sh/
 [debugRepo]: https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter
-[chromeInspect]: chrome://inspect/#devices
