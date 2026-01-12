@@ -8,6 +8,7 @@ This post is a snapshot of how I moved from traditional QA into the world of **A
 
 ---
 
+
 ## Where I started
 
 I have 8+ years of experience in **test automation and quality engineering**. My job was to make systems reliable:  
@@ -19,6 +20,7 @@ Most people treat LLMs like magic.
 I treated them like **unreliable APIs that need validation, constraints, and control**.
 
 ---
+
 
 ## The moment everything clicked
 
@@ -38,7 +40,9 @@ I built it with **PydanticAI**, structured output schemas, and a retrieval syste
 That's when I understood:
 > AI doesn't become useful when it talks better. It becomes useful when it can **act safely inside constraints.**
 
+
 ---
+
 
 ## Why PydanticAI changed everything
 
@@ -61,6 +65,7 @@ It's a **component in a real software system**.
 
 ---
 
+
 ## RAG, but inside the agent
 
 Most people bolt RAG outside their app.
@@ -80,6 +85,7 @@ This makes the agent:
 
 ---
 
+
 ## QA → AI Engineer is not a leap. It's a straight line.
 
 Here's the secret nobody tells you:
@@ -98,6 +104,7 @@ I build **systems that fail safely**.
 
 ---
 
+
 ## What I'm building now
 
 You'll find on my GitHub:
@@ -110,7 +117,7 @@ You'll find on my GitHub:
 Everything is designed around one idea:
 > If AI is going to run parts of the real world, it must be engineered like real software.
 
----
+
 
 This journey is just getting started.  
 And this time, the code actually matters.
