@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Indian engineer based in India, building **Agentic AI systems** and **automation-first products**.  
+Software engineer based in India, building **Agentic AI systems** and **Automation-first products**.  
 I started my career in quality engineering and today I use that same rigor to build **production‑grade AI agents** instead of demo bots.
 
 I love board games, algorithmic thinking, and building things that actually ship.
