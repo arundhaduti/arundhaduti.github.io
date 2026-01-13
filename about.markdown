@@ -4,23 +4,74 @@ title: About
 permalink: /about/
 ---
 
-Indian, who loves to travel and explore new places. I am constantly learning, updating and getting hands on with the latests tools and tech. I am also into playing guitar and music composition.
+Indian engineer based in India, building **Agentic AI systems** and **automation-first products**.  
+I started my career in quality engineering and today I use that same rigor to build **production‑grade AI agents** instead of demo bots.
 
-**Currently working for**
-- Associated Press [https://ap.org](https://ap.org) *remote*
-- Qualitest [https://qualitestgroup.com/](https://qualitestgroup.com/)
-- Working on multiple new projects. Watch this space for more 😃
+I love board games, algorithmic thinking, and building things that actually ship.
+<br/>
 
-**Skillset**
-- Write, develop and maintain test automation frameworks, mostly in `java`, `.net`
-- Quality assurance practices in general, manual testing, process improvement
-- I also know about devops, ci pipelines, kubernetes, docker, Selenium grid, JFrog Artifactory
-- Have worked on various frameworks such as KDT, POM, BDD
-- Currently learning `python` and `openCV`
+---
+<br/>
+## What I’m doing now
 
-**Certifications**
-- ISTQB foundation level
-- Microsoft certified C# professional
+- Building **AI agents** using **PydanticAI, LangChain, RAG, and multi‑agent orchestration**
+- Developing a **production‑grade Dental Appointment Booking AI Agent** (not a chatbot — a real system)
+- Designing **AI‑driven test automation** and **LLM‑powered API testing frameworks**
+- Writing about **agentic systems, AI engineering, and software quality** on my GitHub Pages blog and Medium
+<br/>
 
+---
+<br/>
+## Work
 
-*Shoot me an email if you are looking for software testing consultancy. I will check it (I don't get a lot of emails so I won't skip it)*
+- **Associated Press** — *Remote*  
+  Building and maintaining enterprise‑grade test automation and quality systems
+
+- **Qualitest**  
+  Senior Engineer focused on **automation architecture, API testing, and AI‑driven QA**
+
+- **Accenture**
+  Quality Engineering Senior Analyst focused on on **Automation Architecture, Salesforce Automation testing, and AI‑driven QA**
+<br/>
+
+---
+<br/>
+## Core skillset
+
+### AI & Agentic Systems
+- PydanticAI, LangChain, RAG (vector search, retrieval pipelines)
+- Tool‑calling, multi‑agent orchestration, memory systems
+- LLM‑driven workflows for real business use cases
+
+### Automation & Engineering
+- Java, Python, REST Assured, Selenium
+- API automation, contract testing, test data generation
+- CI/CD, GitHub Actions, Docker, Kubernetes, Selenium Grid
+
+### System Design
+- Designing **testable, observable, production‑ready AI systems**
+- Logging, tracing, evaluation, and failure handling for agents
+<br/>
+
+---
+<br/>
+## Side projects
+
+- **AI Dental Appointment Agent** – a fully working appointment booking system powered by PydanticAI + RAG  
+- **LLM‑based API Test Generator** – generates, validates, and runs API test cases automatically  
+- **Educational Board Game** – teaching algorithms and Java through gameplay  
+<br/>
+
+---
+<br/>
+## Certifications
+
+- ISTQB – Foundation Level  
+- Microsoft Certified C# Professional
+- Certification program in Machine Learning and AI from IIT Roorkee
+<br/>
+
+---
+<br/>
+If you are building anything involving **AI agents, automation, or developer tooling**,  
+feel free to reach out. I actually read my emails.
