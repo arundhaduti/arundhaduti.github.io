@@ -8,6 +8,7 @@ Indian engineer based in India, building **Agentic AI systems** and **automation
 I started my career in quality engineering and today I use that same rigor to build **production‑grade AI agents** instead of demo bots.
 
 I love board games, algorithmic thinking, and building things that actually ship.
+
 <br/>
 
 ---
@@ -18,6 +19,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 - Developing a **production‑grade Dental Appointment Booking AI Agent** (not a chatbot — a real system)
 - Designing **AI‑driven test automation** and **LLM‑powered API testing frameworks**
 - Writing about **agentic systems, AI engineering, and software quality** on my GitHub Pages blog and Medium
+
 <br/>
 
 ---
@@ -32,6 +34,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 
 - **Accenture**
   Quality Engineering Senior Analyst focused on on **Automation Architecture, Salesforce Automation testing, and AI‑driven QA**
+
 <br/>
 
 ---
@@ -51,6 +54,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 ### System Design
 - Designing **testable, observable, production‑ready AI systems**
 - Logging, tracing, evaluation, and failure handling for agents
+
 <br/>
 
 ---
@@ -60,6 +64,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 - **AI Dental Appointment Agent** – a fully working appointment booking system powered by PydanticAI + RAG  
 - **LLM‑based API Test Generator** – generates, validates, and runs API test cases automatically  
 - **Educational Board Game** – teaching algorithms and Java through gameplay  
+
 <br/>
 
 ---
@@ -69,6 +74,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 - ISTQB – Foundation Level  
 - Microsoft Certified C# Professional
 - Certification program in Machine Learning and AI from IIT Roorkee
+
 <br/>
 
 ---
