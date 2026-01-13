@@ -39,6 +39,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+minima:
+  skin: auto
   
 whitelist:
   - jekyll-sitemap
