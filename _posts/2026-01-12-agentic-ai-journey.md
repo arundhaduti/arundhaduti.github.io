@@ -5,6 +5,7 @@ title: "My Agentic AI Journey"
 Five years ago I was happily buried in Selenium scripts, flaky test failures, and endless API assertions. Today, I'm building something very different: **AI agents that think, retrieve knowledge, validate data, and take actions.**
 
 This post is a snapshot of how I moved from traditional QA into the world of **Agentic AI** - not by watching courses, but by shipping real systems.
+
 <br/>
 
 ---
@@ -19,9 +20,11 @@ That mindset turned out to be my biggest advantage when I entered AI.
 
 Most people treat LLMs like magic.  
 I treated them like **unreliable APIs that need validation, constraints, and control**.
-&nbsp;
+
+<br/>
+
 ---
-&nbsp;
+<br/>
 
 ## The moment everything clicked
 
@@ -40,10 +43,11 @@ I built it with **PydanticAI**, structured output schemas, and a retrieval syste
 
 That's when I understood:
 > AI doesn't become useful when it talks better. It becomes useful when it can **act safely inside constraints.**
-&nbsp;
+
+<br/>
 
 ---
-&nbsp;
+<br/>
 
 ## Why PydanticAI changed everything
 
@@ -63,9 +67,11 @@ I use it to define:
 
 The LLM is no longer free‑text chaos.  
 It's a **component in a real software system**.
-&nbsp;
+
+<br/>
+
 ---
-&nbsp;
+<br/>
 
 ## RAG, but inside the agent
 
@@ -83,9 +89,11 @@ This makes the agent:
 - More accurate  
 - More controllable  
 - Easier to update without retraining  
-&nbsp;
+
+<br/>
+
 ---
-&nbsp;
+<br/>
 
 ## QA → AI Engineer is not a leap. It's a straight line.
 
@@ -102,9 +110,11 @@ That's why my background in automation wasn't a weakness - it was the bridge.
 
 I don't build prompt demos.  
 I build **systems that fail safely**.
-&nbsp;
+
+<br/>
+
 ---
-&nbsp;
+<br/>
 
 ## What I'm building now
 
@@ -118,7 +128,7 @@ You'll find on my GitHub:
 Everything is designed around one idea:
 > If AI is going to run parts of the real world, it must be engineered like real software.
 
+<br/>
 
-&nbsp;
 This journey is just getting started.  
 And this time, the code actually matters.
