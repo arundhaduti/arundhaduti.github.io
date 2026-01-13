@@ -4,10 +4,11 @@ title: "My Agentic AI Journey"
 
 Five years ago I was happily buried in Selenium scripts, flaky test failures, and endless API assertions. Today, I'm building something very different: **AI agents that think, retrieve knowledge, validate data, and take actions.**
 
-This post is a snapshot of how I moved from traditional QA into the world of **Agentic AI** - not by watching courses, but by shipping real systems.&nbsp;
+This post is a snapshot of how I moved from traditional QA into the world of **Agentic AI** - not by watching courses, but by shipping real systems.<br/>
 
 ---
-&nbsp;
+
+<br/>
 
 ## Where I started
 
