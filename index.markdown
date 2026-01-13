@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Hey there. I am Arun Dhaduti, an Indian guy with a career in software quality engineering, specialized in software test automation.
+Hey there. I am Arun Dhaduti, an Indian guy with a career in software quality engineering, building production-grade AI agents with PydanticAI, RAG, and automation. Ex-QA who makes LLMs reliable, not just impressive.
 
 follow my posts and check my resume [/about](/about)
 <hr><br>
