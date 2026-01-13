@@ -32,7 +32,7 @@ I love board games, algorithmic thinking, and building things that actually ship
 - **Qualitest**  
   Senior Engineer focused on **automation architecture, API testing, and AI‑driven QA**
 
-- **Accenture**
+- **Accenture**  
   Quality Engineering Senior Analyst focused on on **Automation Architecture, Salesforce Automation testing, and AI‑driven QA**
 
 <br/>
